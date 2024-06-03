@@ -1,4 +1,4 @@
-hi im xeno
+Hi! I'm Francisco (also known as Xavier).
 
 <!--
 **ohlookitsxeno/ohlookitsxeno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
